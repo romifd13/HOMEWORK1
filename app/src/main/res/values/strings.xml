@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <!-- MainActivity -->
+    <string name="warning"> EditText не можеть быть  пустым!</string>
+    <string name="save">Сохранить</string>
+    <string name="writeText">Введите текст</string>
+
+    <!-- ActivityTwo -->
+    <string name="send">Отправть</string>
+
+</resources>
